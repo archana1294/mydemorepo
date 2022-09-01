@@ -1,0 +1,4 @@
+#Comments are prefixed with hash symbol and are ignored.
+#Creating .gitignore file
+
+Autogen/
