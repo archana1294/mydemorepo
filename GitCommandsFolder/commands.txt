@@ -1,1 +1,28 @@
+Commands learnt so far.
 
+git init
+git version
+git remote -v 
+git add [filename]
+git add .
+git commit -m "Commit message"
+git status
+git log
+git log --oneline
+
+To initialize remote connection 
+
+git remote add origin "https link from github for new repository"
+git remote -v 
+
+For the first time:
+
+git pull origin main
+
+git branch -M main
+git push -u origin main
+
+Once the connection is established,
+you can use 
+git pull 
+git push
